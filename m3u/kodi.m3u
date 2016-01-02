@@ -1,4 +1,91 @@
 #EXTM3U
+
+#EXTINF:0,group-title="乐视国内直播",[COLOR green][B]----------乐视国内直播-------[/B][/COLOR]
+http://?
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - CCTV13-新闻
+http://jyzx8.com/tv/m3u8/ipad.php/cctvnew.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 湖南卫视HD
+http://jyzx8.com/tv/m3u8/ipad.php/ws_hunanwsHD_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 北京卫视HD
+http://jyzx8.com/tv/m3u8/ipad.php/bjwsHD_1800.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 深圳卫视HD
+http://jyzx8.com/tv/m3u8/ipad.php/shenzhenHD_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 湖北卫视HD
+http://jyzx8.com/tv/m3u8/ipad.php/hubeiHD_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 广东卫视HD
+http://jyzx8.com/tv/m3u8/ipad.php/guangdongHD_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 江苏卫视HD
+http://jyzx8.com/tv/m3u8/ipad.php/jiangsuHD_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 东方卫视HD
+http://jyzx8.com/tv/m3u8/ipad.php/dongfangHD_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 山东卫视HD
+http://jyzx8.com/tv/m3u8/ipad.php/shandongHD_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 天津卫视HD
+http://jyzx8.com/tv/m3u8/ipad.php/tianjinHD_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 黑龙江卫视HD
+http://jyzx8.com/tv/m3u8/ipad.php/heilongjiangHD_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 甘肃卫视
+http://jyzx8.com/tv/m3u8/ipad.php/gansu.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 陕西卫视
+http://jyzx8.com/tv/m3u8/ipad.php/shanxi1.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 山西卫视
+http://jyzx8.com/tv/m3u8/ipad.php/shanxi.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 吉林卫视
+http://jyzx8.com/tv/m3u8/ipad.php/jilin.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 四川卫视
+http://jyzx8.com/tv/m3u8/ipad.php/sichuan.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 北京文艺HD
+http://jyzx8.com/tv/m3u8/ipad.php/bjwyHD_1800.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 北京纪实HD
+http://jyzx8.com/tv/m3u8/ipad.php/bjjsHD_1800.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 北京体育HD
+http://jyzx8.com/tv/m3u8/ipad.php/btv6_1800.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 北京科教
+http://jyzx8.com/tv/m3u8/ipad.php/bjkj.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 北京影视
+http://jyzx8.com/tv/m3u8/ipad.php/bjys.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 北京财经
+http://jyzx8.com/tv/m3u8/ipad.php/bjcj.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 北京生活
+http://jyzx8.com/tv/m3u8/ipad.php/bjsh.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 北京青年
+http://jyzx8.com/tv/m3u8/ipad.php/bjqn.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 北京新闻
+http://jyzx8.com/tv/m3u8/ipad.php/bjxw.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 上海新闻HD
+http://jyzx8.com/tv/m3u8/ipad.php/ws_shxw_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 广东珠江
+http://jyzx8.com/tv/m3u8/ipad.php/ws_gdzj_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 广东新闻
+http://jyzx8.com/tv/m3u8/ipad.php/ws_gdxw_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 深圳都市
+http://jyzx8.com/tv/m3u8/ipad.php/ws_szds_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 深圳电视剧
+http://jyzx8.com/tv/m3u8/ipad.php/ws_szdsj_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 深圳体育健康
+http://jyzx8.com/tv/m3u8/ipad.php/ws_sztyjk_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 深圳财经
+http://jyzx8.com/tv/m3u8/ipad.php/ws_szcj_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 深圳娱乐
+http://jyzx8.com/tv/m3u8/ipad.php/ws_szyl_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 深圳少儿
+http://jyzx8.com/tv/m3u8/ipad.php/ws_szse_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 南方经济科教
+http://jyzx8.com/tv/m3u8/ipad.php/ws_nfjj_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 南方影视
+http://jyzx8.com/tv/m3u8/ipad.php/ws_nfys_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 南方少儿
+http://jyzx8.com/tv/m3u8/ipad.php/ws_nfse_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 南方综艺
+http://jyzx8.com/tv/m3u8/ipad.php/ws_nfzy_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 江苏城市
+http://jyzx8.com/tv/m3u8/ipad.php/ws_jscs_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 江苏综艺
+http://jyzx8.com/tv/m3u8/ipad.php/ws_jszy_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 江苏影视
+http://jyzx8.com/tv/m3u8/ipad.php/ws_jsys_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 江苏体育休闲
+http://jyzx8.com/tv/m3u8/ipad.php/ws_jstyxx_1300.m3u8
 #EXTINF:0,group-title="app",[COLOR green][B]----------app-------[/B][/COLOR]
 http://?
 
