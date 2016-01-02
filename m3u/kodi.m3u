@@ -1,4 +1,123 @@
 #EXTM3U
+#EXTINF:0,group-title="app",[COLOR green][B]----------app-------[/B][/COLOR]
+http://?
+
+#EXTINF:-1 $ExtFilter="app",app - 陕西卫视HD
+http://app.008.cn:8080/live/1000223.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 陕西卫视HD
+http://app.008.cn:8080/live/1000222.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 陕西1套
+http://app.008.cn:8080/live/1000221.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 陕西1套
+http://app.008.cn:8080/live/1000220.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 陕西2套
+http://app.008.cn:8080/live/1000196.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 陕西2套
+http://app.008.cn:8080/live/1000197.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 陕西3套
+http://app.008.cn:8080/live/1000195.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 陕西3套
+http://app.008.cn:8080/live/1000194.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 陕西5套
+http://app.008.cn:8080/live/1000193.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 陕西5套
+http://app.008.cn:8080/live/1000192.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 陕西7套
+http://app.008.cn:8080/live/1000249.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 陕西7套
+http://app.008.cn:8080/live/1000248.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 陕西8套
+http://app.008.cn:8080/live/1000189.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 陕西8套
+http://app.008.cn:8080/live/1000188.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-1
+http://app.008.cn:8080/live/1000242.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-1
+http://app.008.cn:8080/live/1000243.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-2
+http://app.008.cn:8080/live/1000218.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-2
+http://app.008.cn:8080/live/1000219.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-3
+http://app.008.cn:8080/live/1000235.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-3
+http://app.008.cn:8080/live/1000234.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-4
+http://app.008.cn:8080/live/1000250.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-4
+http://app.008.cn:8080/live/1000251.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-5
+http://app.008.cn:8080/live/1000241.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-5
+http://app.008.cn:8080/live/1000240.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-6
+http://app.008.cn:8080/live/1000215.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-6
+http://app.008.cn:8080/live/1000214.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-7
+http://app.008.cn:8080/live/1000213.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-7
+http://app.008.cn:8080/live/1000212.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-8
+http://app.008.cn:8080/live/1000236.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-8
+http://app.008.cn:8080/live/1000237.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-9
+http://app.008.cn:8080/live/1000211.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-9
+http://app.008.cn:8080/live/1000210.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-10
+http://app.008.cn:8080/live/1000208.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-10
+http://app.008.cn:8080/live/1000209.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-11
+http://app.008.cn:8080/live/1000207.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-11
+http://app.008.cn:8080/live/1000206.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-12
+http://app.008.cn:8080/live/1000205.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-12
+http://app.008.cn:8080/live/1000204.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-13
+http://app.008.cn:8080/live/1000202.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-13
+http://app.008.cn:8080/live/1000203.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-14
+http://app.008.cn:8080/live/1000198.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-14
+http://app.008.cn:8080/live/1000199.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-15
+http://app.008.cn:8080/live/1000200.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-15
+http://app.008.cn:8080/live/1000201.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-5+
+http://app.008.cn:8080/live/1000238.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-5+
+http://app.008.cn:8080/live/1000239.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 湖南卫视
+http://app.008.cn:8080/live/1000226.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 湖南卫视
+http://app.008.cn:8080/live/1000227.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 北京卫视
+http://app.008.cn:8080/live/1000229.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 北京卫视
+http://app.008.cn:8080/live/1000228.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 东方卫视
+http://app.008.cn:8080/live/1000186.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 东方卫视
+http://app.008.cn:8080/live/1000187.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 上海卫视
+http://app.008.cn:8080/live/1000231.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 上海卫视
+http://app.008.cn:8080/live/1000230.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 江苏卫视
+http://app.008.cn:8080/live/1000233.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 江苏卫视
+http://app.008.cn:8080/live/1000232.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 浙江卫视
+http://app.008.cn:8080/live/1000224.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 浙江卫视
+http://app.008.cn:8080/live/1000225.stream/playlist.m3u8
 
 #EXTINF:0,group-title="新疆",[COLOR green][B]----------新疆-------[/B][/COLOR]
 http://?
@@ -224,7 +343,7 @@ http://pczhibo.imgo.tv/117s14fm
 http://pczhibo.imgo.tv/121s11fm
 #EXTINF:-1 $ExtFilter="湖南频道",★湖南频道★ - CCTV高尔夫网球
 http://pczhibo.imgo.tv/111s35fm
-#EXTINF:0,group-title="搜狐华数",[COLOR green][B]----------搜狐华数-------[/B][/COLOR]
+#EXTINF:0,group-title="搜狐华数",[COLOR green][B]----------搜狐华数(慢)-------[/B][/COLOR]
 http://?
 
 #EXTINF:-1 $ExtFilter="搜狐华数",搜狐华数 - CCTV-1
@@ -536,121 +655,6 @@ http://evansgs.xinxingkm.com/mgtv.php?liveId=mgty
 http://pczhibo.imgo.tv/119s41fm
 #EXTINF:-1 $ExtFilter="mgtv",芒果电视 - 先锋记录
 http://pczhibo.imgo.tv/119s31fm
-#EXTINF:0,group-title="搜狐移动",[COLOR green][B]----------搜狐移动-------[/B][/COLOR]
-http://?
-
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-1
-http://sohudn.duapp.com/dop/ycmv.php/cctv1.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-1HD
-http://sohudn.duapp.com/dop/ycmv.php/cctv1hd.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-2
-http://sohudn.duapp.com/dop/ycmv.php/cctv2.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-3
-http://sohudn.duapp.com/dop/ycmv.php/cctv3.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-4(亚)
-http://sohudn.duapp.com/dop/ycmv.php/cctv4.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-5
-http://sohudn.duapp.com/dop/ycmv.php/cctv5.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-5HD
-http://sohudn.duapp.com/dop/ycmv.php/cctv5hd.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-6
-http://sohudn.duapp.com/dop/ycmv.php/cctv6.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-7
-http://sohudn.duapp.com/dop/ycmv.php/cctv7.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-8
-http://sohudn.duapp.com/dop/ycmv.php/cctv8.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-9
-http://sohudn.duapp.com/dop/ycmv.php/cctv9.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-10
-http://sohudn.duapp.com/dop/ycmv.php/cctv10.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-11
-http://sohudn.duapp.com/dop/ycmv.php/cctv11.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-12
-http://sohudn.duapp.com/dop/ycmv.php/cctv12.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-13
-http://sohudn.duapp.com/dop/ycmv.php/cctv13.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-14
-http://sohudn.duapp.com/dop/ycmv.php/cctv14.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-15
-http://sohudn.duapp.com/dop/ycmv.php/cctv15.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-NEWS
-http://sohudn.duapp.com/dop/ycmv.php/cctvnews.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 新华中文
-http://112.124.12.126/lolbbs/tvzb/letv3.php?id=hz_xhs2_800
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 新华英文
-http://112.124.12.126/lolbbs/tvzb/letv3.php?id=hz_xhs1_800
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CETV1中国教育
-http://sohudn.duapp.com/dop/ycmv.php/cetv1.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 湖南卫视
-http://sohudn.duapp.com/dop/ycmv.php/hnws.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 湖南卫视HD
-http://sohudn.duapp.com/dop/ycmv.php/hnwshd.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 浙江卫视HD
-http://sohudn.duapp.com/dop/ycmv.php/zjwshd.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 东方卫视HD
-http://sohudn.duapp.com/dop/ycmv.php/dfwshd.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 深圳卫视HD
-http://sohudn.duapp.com/dop/ycmv.php/szwshd.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 北京卫视HD
-http://sohudn.duapp.com/dop/ycmv.php/bjwshd.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 江苏卫视HD
-http://sohudn.duapp.com/dop/ycmv.php/jswshd.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 山东卫视HD
-http://sohudn.duapp.com/dop/ycmv.php/sdwshd.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 天津卫视HD
-http://sohudn.duapp.com/dop/ycmv.php/tjwshd.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 广东卫视HD
-http://sohudn.duapp.com/dop/ycmv.php/gdwshd.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 黑龙江卫视HD
-http://sohudn.duapp.com/dop/ycmv.php/hljwshd.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 重庆卫视
-http://sohudn.duapp.com/dop/ycmv.php/cqws.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 云南卫视
-http://sohudn.duapp.com/dop/ycmv.php/ynws.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 新疆卫视
-http://sohudn.duapp.com/dop/ycmv.php/xjws.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 甘肃卫视
-http://sohudn.duapp.com/dop/ycmv.php/gsws.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 山西卫视
-http://sohudn.duapp.com/dop/ycmv.php/sxws.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 西藏卫视
-http://sohudn.duapp.com/dop/ycmv.php/xzws.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 青海卫视
-http://sohudn.duapp.com/dop/ycmv.php/qhws.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 宁夏卫视
-http://sohudn.duapp.com/dop/ycmv.php/nxws.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 旅游卫视
-http://sohudn.duapp.com/dop/ycmv.php/lyws.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 辽宁卫视
-http://sohudn.duapp.com/dop/ycmv.php/lnws.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 康巴卫视
-http://sohudn.duapp.com/dop/ycmv.php/kbws.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 贵州卫视
-http://sohudn.duapp.com/dop/ycmv.php/gzws.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 湖北卫视
-http://sohudn.duapp.com/dop/ycmv.php/hbws.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 河南卫视
-http://sohudn.duapp.com/dop/ycmv.php/hnws.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 吉林卫视
-http://sohudn.duapp.com/dop/ycmv.php/jlws.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 广西卫视
-http://sohudn.duapp.com/dop/ycmv.php/gxws.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 北京科教
-http://sohudn.duapp.com/dop/ycmv.php/btv3.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 北京文艺
-http://sohudn.duapp.com/dop/ycmv.php/btv2.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 北京新闻
-http://sohudn.duapp.com/dop/ycmv.php/btv9.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 北京影视
-http://sohudn.duapp.com/dop/ycmv.php/btv4.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 北京青少
-http://sohudn.duapp.com/dop/ycmv.php/btv8.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 北京体育
-http://sohudn.duapp.com/dop/ycmv.php/btv6.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 北京生活
-http://sohudn.duapp.com/dop/ycmv.php/btv7.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 北京财经,
-http://sohudn.duapp.com/dop/ycmv.php/btv5.m3u8
 
 #EXTINF:0,group-title="江苏移动",[COLOR green][B]----------江苏移动-------[/B][/COLOR]
 http://?
@@ -3471,328 +3475,6 @@ rtmp://123.108.164.71/etv2sb/phd4
 rtmp://111.118.21.79/etv1sb/phd3
 #EXTINF:-1 $ExtFilter="韩国",韩国 - ETN
 rtmp://123.108.164.71/etv2sb/phd2
-#EXTINF:0,group-title="XXX",[COLOR red][B]----------XXX-------[/B][/COLOR]
-http://?
-#EXTINF:-1 $ExtFilter="欧美步兵",迈阿密Miami TV-XXX
-http://k4.usastreams.com:1935/miamitv/smil:miamitv/chunklist_w732305586_b1550000.m3u8
-#EXTINF:-1 $ExtFilter="欧美步兵",DIVA直播 - XXX
-http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/you_diva-tablet.3gp/you_diva-tablet.3gp-mr648k.m3u8?
-#EXTINF:-1 $ExtFilter="欧美步兵",前100名火辣 - XXX
-http://46.249.213.93/iPhone/broadcast/hot100-tablet.3gp.m3u8
-#EXTINF:-1 $ExtFilter="欧美步兵",音乐电视 - XXX
-http://74.208.152.93/music/stream3/stream.m3u8
-#EXTINF:-1 $ExtFilter="欧美步兵",海滩辣妹 - XXX
-http://46.249.213.93/iPhone/broadcast/hotshotsbeachbabes-iphone.3gp.m3u8
-#EXTINF:-1 $ExtFilter="欧美步兵",火辣比基尼 - XXX
-http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/bikini_hotties-tablet.3gp/bikini_hotties-tablet.3gp-mr653k.m3u8?
-#EXTINF:-1 $ExtFilter="欧美步兵",宝莱坞比基尼 - XXX
-http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/bollywood_bikini-tablet.3gp/bollywood_bikini-tablet.3gp-mr647k.m3u8?
-#EXTINF:-1 $ExtFilter="欧美步兵",肚皮舞 - XXX
-rtsp://46.249.213.87/broadcast/strictlybellydancing-tablet.3gp
-#EXTINF:-1 $ExtFilter="欧美步兵",热的射击 - XXX
-http://46.249.213.93/iPhone/broadcast/hotshots-iphone.3gp.m3u8
-#EXTINF:-1 $ExtFilter="欧美步兵",女神精简版电视 - XXX
-http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/you_diva_lite-tablet.3gp/you_diva_lite-tablet.3gp-mr397k.m3u8?
-#EXTINF:-1 $ExtFilter="欧美步兵",歌姬直播 - XXX
-rtsp://46.249.213.87/broadcast/youdiva-tablet.3gp
-#EXTINF:-1 $ExtFilter="欧美步兵",贝拉俱乐部 - XXX
-http://46.249.213.93/iPhone/broadcast/bellaclub-iphone.3gp.m3u8
-#EXTINF:-1 $ExtFilter="欧美步兵",贝拉俱乐部卢斯 - XXX
-http://46.249.213.87/iPhone/HLS_TS/broadcast/bella_club_luz-tablet.3gp/bella_club_luz-tablet.3gp-mr647k.m3u8
-#EXTINF:-1 $ExtFilter="欧美步兵",宝贝 - XXX
-http://46.249.213.93/iPhone/broadcast/babespotting-iphone.3gp.m3u8
-#EXTINF:-1 $ExtFilter="欧美步兵",比基尼电视直播 - XXX
-http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/bollywood_bikini-tablet.3gp/bollywood_bikini-tablet.3gp-mr647k.m3u8?
-#EXTINF:-1 $ExtFilter="欧美步兵",亲密电视现场直播 - XXX
-http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet.3gp/victorias_secret_angels-tablet.3gp-mr648k.m3u8
-#EXTINF:-1 $ExtFilter="欧美步兵",茉莉电视频道 - XXX
-rtmp://109.71.162.112/live/sd.jasminchannel.stream
-#EXTINF:-1 $ExtFilter="欧美步兵",Private.com - XXX
-http://publish.thewebstream.co:1935/leved/_definst_/privateCom/playlist.m3u8
-#EXTINF:-1 $ExtFilter="欧美步兵",Passion Xxx - XXX
-http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="欧美步兵",Babestation Xtreme - XXX
-http://publish.thewebstream.co:1935/bsx24/mpegts1.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="欧美步兵",razzers TV - XXX
-http://46.182.25.34:1935/tv/1420/chunklist_w558817657.m3u8
-#EXTINF:-1 $ExtFilter="欧美步兵",JasminTV HD - XXX
-rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
-#EXTINF:-1 $ExtFilter="欧美步兵",动漫中文1 - XXX
-http://210.200.79.26:1935/live/aracity01/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="欧美步兵",有码中文2 - XXX
-http://210.200.79.26:1935/live/aracity02/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="欧美步兵",有码中文3 - XXX
-http://210.200.79.26:1935/live/aracity03/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="欧美步兵",有码中文4 - XXX
-http://210.200.79.26:1935/live/aracity_m_new/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="欧美步兵",熟女有码5 - XXX
-http://59.120.43.180:17820
-#EXTINF:0,group-title="CR",[COLOR green][B]----------CR频道-------[/B][/COLOR]
-http://?
-#EXTINF:-1 $ExtFilter="CR",CR - Babe_Spotting
-http://46.249.213.93/iPhone/broadcast/babespotting-iphone.3gp.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - Eurotic_TV(SD)
-rtmp://5.10.77.106/livepkgr/astra_1
-#EXTINF:-1 $ExtFilter="CR",CR - HOT_SHOTS
-http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - Hot_Shots_Beach_Babes
-http://46.249.213.93/iPhone/broadcast/hotshotsbeachbabes-iphone.3gp.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - iTV_Polska
-mms://stream.mni.pl/ITV
-#EXTINF:-1 $ExtFilter="CR",CR - JasminTV_HD
-rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
-#EXTINF:-1 $ExtFilter="CR",CR - Korea_Livething_Premium
-http://edge2.everyon.tv/etv2/phd1006/HasBahCa.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - Private_Spice_TV
-rtmp://123.108.164.71/etv2//pld1005
-#EXTINF:-1 $ExtFilter="CR",CR - Strictly_Belly_Dancing
-rtsp://46.249.213.87/broadcast/strictlybellydancing-tablet.3gp
-#EXTINF:-1 $ExtFilter="CR",CR - Studio_TV_1
-rtsp://playback.d2see.com/wavemachine-live01/studio66tv_channel1
-#EXTINF:-1 $ExtFilter="CR",CR - Studio_TV_2
-rtsp://playback.d2see.com/wavemachine-live01/studio66tv_channel2
-#EXTINF:-1 $ExtFilter="CR",CR - Studio_TV_3
-rtsp://playback.d2see.com/wavemachine-live01/studio66tv_channel3
-#EXTINF:-1 $ExtFilter="CR",CR - Studio_TV_4
-rtsp://playback.d2see.com/wavemachine-live01/studio66tv_channel4
-#EXTINF:-1 $ExtFilter="CR",CR - You_Diva
-rtsp://46.249.213.87/broadcast/youdiva-tablet.3gp
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国_Ask_TV
-http://edge2.everyon.tv/etv2/phd1005/HasBahCa.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国_ButGO_TV
-rtmp://edge2.everyon.tv/etv2sb/pld968
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国_GIRLS_TV
-http://edge2.everyon.tv:1935/etv2sb/phd501/huraivza.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国_GirlsTV
-http://edge2.everyon.tv/etv2sb/phd501/chunklist_w1120440173.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国_Hot_Movies_TV
-rtmp://edge2.everyon.tv/etv2/pld1008
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国_Livething_Premium
-rtmp://edge2.everyon.tv/etv2/phd1006
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国_MidnihtTV
-rtmp://123.108.164.71/etv2sb//pld499
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国_Midnit_TV
-rtmp://123.108.164.71/etv2sb//pld991
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国_Okadai
-http://edge2.everyon.tv/etv2/pld1003/HasBahCa.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国_Okadai
-http://edge2.everyon.tv/etv2/pld1003/BratuMarian.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国_OKADAI
-http://edge2.everyon.tv:1935/etv2/phd1003/huraivza.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国_Okadai_HD
-http://edge2.everyon.tv/etv2/phd1003/playlist.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国_Okadai_HD
-rtmp://edge2.everyon.tv/etv2/phd1003
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国_Paradise_TV
-http://edge2.everyon.tv/etv2/pld1008/HasBahCa.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国_PinkTV
-rtmp://123.108.164.71/etv2sb//pld61
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国_PlayboyTV
-rtmp://edge2.everyon.tv/etv2/pld1005
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国_PlayboyTV
-rtmp://edge2.everyon.tv/etv2//pld1005
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国_PLAYY
-http://edge2.everyon.tv/etv2sb/phd743/playlist.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国_Playy19+
-rtmp://edge2.everyon.tv/etv2/pld1006
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国_SAKURA
-http://edge2.everyon.tv:1935/etv2sb/phd61/huraivza.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国1003
-rtmp://edge2.everyon.tv:1935/etv2/phd1003
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国1003
-http://cr.stream.omc.hk/etv2/phd1003/playlist.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国1003
-http://edge2.everyon.tv/etv2/phd1003/BratuMarian.m3u8#rtmp://edge2.everyon.tv/etv2/phd1003
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国1003
-rtmp://edge2.everyon.tv/etv2/pld1003
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国1003
-rtmp://123.108.164.71/etv2/pld1003
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国1003
-rtmp://123.108.164.71/etv2/phd1003
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国1005
-rtmp://edge2.everyon.tv/etv2/phd1005
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国1005
-rtmp://123.108.164.71/etv2/phd1005
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国1005
-http://edge2.everyon.tv/etv2/phd1005/chunklist_w982667849.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国1005
-http://edge2.everyon.tv/etv2/phd1005/playlist.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国1005
-http://edge2.everyon.tv/etv2/phd1005/BratuMarian.m3u8#rtmp://edge2.everyon.tv/etv2/phd1005
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国1005
-http://edge2.everyon.tv/etv2/phd1005/BratuMarian.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国1005
-http://cr.stream.omc.hk/etv2/phd1005/chunklist_w2141649816.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国1006
-rtmp://123.108.164.71/etv2/pld1006
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国1006
-rtmp://123.108.164.71/etv2//pld1006
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国1006
-rtmp://123.108.164.71/etv2/phd1006
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国1006
-http://cr.stream.omc.hk/etv2/phd1006/playlist.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国1006
-http://cr.stream.omc.hk/etv2/pld1006/playlist.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国1006
-rtmp://edge2.everyon.tv/etv2//pld1006
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国1008
-rtmp://123.108.164.71/etv2//pld1008
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国1008
-rtmp://123.108.164.71/etv2/phd1008
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国1008
-rtmp://edge2.everyon.tv/etv2/phd1008
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国1008
-rtmp://edge2.everyon.tv/etv2//pld1008
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国1008
-rtmp://123.108.164.71/etv2/pld1008
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国1008
-http://cr.stream.omc.hk/etv2/pld1008/playlist.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国1008
-http://edge2.everyon.tv/etv2/phd1008/playlist.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国1008
-http://cr.stream.omc.hk/etv2/phd1008/playlist.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国499
-http://edge2.everyon.tv/etv2sb/pld499/HasBahCa.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国499
-rtmp://edge2.everyon.tv/etv2sb/pld499
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国499
-rtmp://123.108.164.71/etv2sb/pld499
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国501
-rtmp://edge2.everyon.tv/etv2sb/phd501
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国501
-http://edge2.everyon.tv/etv2sb/pld501/HasBahCa.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国501
-rtmp://123.108.164.71/etv2sb/phd501
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国743
-rtmp://edge2.everyon.tv/etv2sb/phd743
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国770
-rtmp://edge2.everyon.tv/etv2sb/phd770
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国877
-rtmp://edge2.everyon.tv:1935/etv2/phd877
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国968
-http://edge2.everyon.tv/etv2sb/phd968/playlist.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国968
-rtmp://123.108.164.71/etv2sb/pld968
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国968
-http://cr.stream.omc.hk/etv2sb/phd968/chunklist_w691995361.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国968
-rtmp://edge2.everyon.tv/etv2sb/phd968
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国991
-rtmp://123.108.164.71/etv2sb/pld991
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国991
-rtmp://edge2.everyon.tv/etv2sb/pld991
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国992
-rtmp://123.108.164.71/etv2sb/pld992
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国992
-rtmp://edge2.everyon.tv/etv2sb/pld992
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国993
-rtmp://edge2.everyon.tv/etv2sb/pld993
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国993
-rtmp://123.108.164.71/etv2sb//pld993
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国993
-rtmp://123.108.164.71/etv2sb/pld993#rtmp://123.108.164.71/etv2sb/phd993#http://cr.stream.omc.hk/etv2sb/phd993/playlist.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国993
-rtmp://123.108.164.71/etv2sb/pld993
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国GirlsTV
-rtmp://123.108.164.71/etv2sb/pld501
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国Livething_Premium
-http://edge2.everyon.tv/etv2/phd1006/BratuMarian.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国Paradise_TV
-http://edge2.everyon.tv/etv2/phd1008/BratuMarian.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国playy19+
-rtmp://123.108.164.71/etv2sb/pld61
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国(m3u8)-743
-http://edge2.everyon.tv/etv2sb/phd743/playlist.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国(m3u8)-770
-http://edge2.everyon.tv/etv2sb/phd770/playlist.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国(m3u8)-JAV-TV-1003
-http://edge2.everyon.tv/etv2/phd1003/playlist.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国(m3u8)-Paradise-HD-1008
-http://edge2.everyon.tv/etv2/phd1008/playlist.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国(m3u8)-girlTV-501
-http://edge2.everyon.tv/etv2sb/phd501/playlist.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 韩国樱花台
-http://edge2.everyon.tv/etv2sb/phd61/playlist.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 迈阿密宝贝Spotting_live
-http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/babe_spotting-tablet.3gp/babe_spotting-tablet.3gp-mr648k.m3u8?
-#EXTINF:-1 $ExtFilter="CR",CR - 迈阿密贝拉俱乐部卢斯
-http://46.249.213.87/iPhone/HLS_TS/broadcast/bella_club_luz-tablet.3gp/bella_club_luz-tablet.3gp-mr647k.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 迈阿密比基尼电视直播
-http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/bollywood_bikini-tablet.3gp/bollywood_bikini-tablet.3gp-mr647k.m3u8?
-#EXTINF:-1 $ExtFilter="CR",CR - 迈阿密海滩辣妹
-http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/hot_shots_beach_babes-tablet.3gp/hot_shots_beach_babes-tablet.3gp-mr646k.m3u8?
-#EXTINF:-1 $ExtFilter="CR",CR - 迈阿密火辣比基尼
-http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/bikini_hotties-tablet.3gp/bikini_hotties-tablet.3gp-mr653k.m3u8?
-#EXTINF:-1 $ExtFilter="CR",CR - 迈阿密女神精简版电视
-http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/you_diva_lite-tablet.3gp/you_diva_lite-tablet.3gp-mr397k.m3u8?
-#EXTINF:-1 $ExtFilter="CR",CR - 迈阿密前100名火辣
-http://46.249.213.93/iPhone/HLS_TS/broadcast/hot_100-tablet.3gp/hot_100-tablet.3gp-mr647k.m3u8?
-#EXTINF:-1 $ExtFilter="CR",CR - 迈阿密亲密电视现场直播
-http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet.3gp/victorias_secret_angels-tablet.3gp-mr648k.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 欧美裸模bellaclub
-http://46.249.213.93/iPhone/broadcast/bellaclub-iphone.3gp.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 欧美裸模hotshots
-http://46.249.213.93/iPhone/broadcast/hotshots-iphone.3gp.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 欧美裸模PowerGirls
-http://46.249.213.93/iPhone/broadcast/powergirls-iphone.3gp.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 欧美裸模YouDiva
-http://46.249.213.87/iPhone/broadcast/youdiva-iphone.3gp.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 日本成人1(中文字幕)
-http://210.200.79.26:1935/live/aracity_m_new/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 日本成人2(中文字幕)
-http://210.200.79.26:1935/live/aracity02/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - JAPANESE XXX
-http://a7-60.5-69.cdn13.com/28000/28927/28927.flv?cdn_hash=617053833638d35a5a573c8103eb99a2&cdn_creation_time=1384716160&cdn_ttl=600
-#EXTINF:-1 $ExtFilter="CR",CR - JAPANESE XXX2
-http://a7-60.5-77.cdn13.com/29000/29105/29105.flv?cdn_hash=aa4068e003c351a0f60f9c8269b776c4&cdn_creation_time=1384715109&cdn_ttl=600
-#EXTINF:-1 $ExtFilter="CR",CR - JAPANESE XXX3
-http://a7-60.5-79.cdn13.com/28000/28941/28941.flv?cdn_hash=8be4152cdba1fdd9cbefea35cd1a817e&cdn_creation_time=1384715201&cdn_ttl=600
-#EXTINF:-1 $ExtFilter="CR",CR - 日本成人卡通(中文字幕)
-http://210.200.79.26:1935/live/aracity01/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="CR",CR - 台湾成人(中文字幕)
-http://59.120.43.180:17820
-#EXTINF:-1 $ExtFilter="CR",CR - 新韩源5
-rtmp://edge2.everyon.tv:1935/etv2/phd1005
-#EXTINF:-1 $ExtFilter="CR",CR - 新韩源9
-rtmp://edge2.everyon.tv:1935/etv2/phd1008
-#EXTINF:-1 $ExtFilter="CR",CR-VOD:016
-http://animal-sex-xxx.org/xxxx/030.mp4
-#EXTINF:-1 $ExtFilter="CR",CR-VOD:019
-http://animal-sex-xxx.org/xxxx/033.mp4
-#EXTINF:-1 $ExtFilter="CR",CR-VOD:020
-http://animal-sex-xxx.org/xxxx/034.mp4
-#EXTINF:-1 $ExtFilter="CR",CR-VOD:021
-http://animal-sex-xxx.org/xxxx/035.mp4
-#EXTINF:-1 $ExtFilter="CR",CR-VOD:024
-http://animal-sex-xxx.org/xxxx/038.mp4
-#EXTINF:-1 $ExtFilter="CR",CR-VOD:025
-http://animal-sex-xxx.org/xxxx/039.mp4
-#EXTINF:-1 $ExtFilter="CR",CR-VOD:026
-http://animal-sex-xxx.org/xxxx/040.mp4
-#EXTINF:-1 $ExtFilter="CR",CR-VOD:027
-http://animal-sex-xxx.org/xxxx/041.mp4
-#EXTINF:-1 $ExtFilter="CR",CR - 4K: VOD1
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
-#EXTINF:-1 $ExtFilter="CR",CR - 4K: VOD2
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
-#EXTINF:-1 $ExtFilter="CR",CR - 4K: VOD3
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
-#EXTINF:-1 $ExtFilter="CR",CR - 4K: VOD4
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
-#EXTINF:-1 $ExtFilter="CR",CR - 4K: VOD5
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
-#EXTINF:-1 $ExtFilter="CR",CR - 4K: VOD6
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
-#EXTINF:-1 $ExtFilter="CR",CR - 4K: VOD7
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
-#EXTINF:-1 $ExtFilter="CR",CR - 4K: VOD8
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
-#EXTINF:-1 $ExtFilter="CR",CR - 4K: VOD9
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
-#EXTINF:-1 $ExtFilter="CR",CR - 4K: VOD10
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
-#EXTINF:-1 $ExtFilter="CR",CR - 4K: 广东珠江
-rtmp://219.136.253.79:1938/live-gdzj-001/stream800
 #EXTINF:0,group-title="中国广播",[COLOR green][B]----------中国广播-------[/B][/COLOR]
 http://?
 
